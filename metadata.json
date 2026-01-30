@@ -1,0 +1,7 @@
+{
+  "name": "SIÊU APP VIP PRO - EDUMASTER 4.0",
+  "description": "Hệ thống quản lý giáo dục tối thượng tích hợp AI phân tích hành vi và tạo báo cáo tự động.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
